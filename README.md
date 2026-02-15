@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Surapat (Call me Arm)
+# Hi there! I'm Surapat (or you may call me Arm) 👋
 
 **Ex-CERN Physicist turned Full-Stack Software Engineer & Data Engineer**
 
