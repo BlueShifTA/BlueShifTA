@@ -1,8 +1,14 @@
-# Hi there! 👋 I'm Surapat
+# Hi there! 👋 I'm Surapat (Call me Arm)
 
 **Ex-CERN Physicist turned Full-Stack Software Engineer & Data Engineer**
 
 I spent a few fascinating years at CERN working on the LHCb experiment, measuring the tiniest properties of subatomic particles. These days, I'm building production systems in the startup world—from hardware control and edge analytics to full-stack web applications. I love the challenge of optimizing real-time systems and creating elegant solutions to complex problems.
+
+## 🎓 Background
+
+I had the privilege of working on precision charm-physics measurements at CERN, contributing to the **first observation of mass difference between neutral charm-meson eigenstates** (published in Physical Review Letters, 2021). 
+
+**Education:** PhD & MSc in Physics @ EPFL/CERN 
 
 ## 🔧 Tech Stack
 
@@ -30,25 +36,6 @@ I spent a few fascinating years at CERN working on the LHCb experiment, measurin
 - 📊 Creating stock screening systems with integrated LLM analysis
 - 🔧 Writing clean, maintainable code that survives the startup pace
 
-## 🎓 Background
-
-I had the privilege of working on precision charm-physics measurements at CERN, contributing to the **first observation of mass difference between neutral charm-meson eigenstates** (published in Physical Review Letters, 2021). 
-
-**Education:** PhD & MSc in Physics @ EPFL/CERN • BSc in Physics @ Mahidol University, Thailand
-
-## 💼 Recent Highlights
-
-- Achieved **10x speedup** in real-time molecular analysis workflows through profiling and optimization
-- Increased biosensor sensitivity **5x** through advanced image processing and statistical pipelines
-- Delivered core software for multiple product lines launched to market
-- Maintain sensor software running across **10+ client-side readers** in production
-
-## 🌍 Life Beyond Code
-
-When I'm not debugging or optimizing something, you might find me:
-
-💃 Popping & Bachata dancing • ⛷️ Skiing • 🤿 Scuba diving • 🥾 Hiking
-
 ## 📫 Let's Connect!
 
 I'm always happy to chat about software engineering, physics, robotics, or just exchange ideas about building cool things!
@@ -58,5 +45,3 @@ I'm always happy to chat about software engineering, physics, robotics, or just 
 ---
 
 *"From particles to production systems—always learning, always building."* ✨
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlueShifTA&show_icons=true&theme=radical)
