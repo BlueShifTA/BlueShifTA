@@ -4,11 +4,6 @@
 
 I spent a few fascinating years at CERN working on the LHCb experiment, measuring the tiniest properties of subatomic particles. These days, I'm building production systems in the startup world—from hardware control and edge analytics to full-stack web applications. I love the challenge of optimizing real-time systems and creating elegant solutions to complex problems.
 
-## 🎓 Background
-
-I had the privilege of working on precision charm-physics measurements at CERN, contributing to the **first observation of mass difference between neutral charm-meson eigenstates** (published in Physical Review Letters, 2021). 
-
-**Education:** PhD & MSc in Physics @ EPFL/CERN 
 
 ## 🔧 Tech Stack
 
