@@ -35,7 +35,7 @@ I spent a few fascinating years at CERN working on the LHCb experiment, measurin
 
 I'm always happy to chat about software engineering, physics, robotics, or just exchange ideas about building cool things!
 
-📧 surapat.eki@gmail.com • 💼 [LinkedIn](https://linkedin.com/in/surapat-ek-in) • 📍 Zürich, Switzerland
+📧 surapat.eki@gmail.com • 💼 [LinkedIn](https://linkedin.com/in/surapat-ek-in) • 🔬 [armlab.io](https://armlab.io) • 📍 Zürich, Switzerland
 
 ---
 
